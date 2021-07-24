@@ -1,0 +1,11 @@
+# Ignore Visual Studio files
+/.vs/**
+/BattleOnBricks/x64/**
+/BattleOnBricks/Debug/**
+/x64/**
+*.user
+
+# Ignore diff files
+*.bak
+
+
